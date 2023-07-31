@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "nombre":"Burguer Clasica",
+        "precio":1800,
+        "imagen": "../images/burguerClasica.jpeg",
+        "cantidad": 1
+
+    },
+    {
+        "id":2,
+        "nombre":"Burguer Americana",
+        "precio":2200,
+        "imagen": "../images/burguerAmericana.jpeg",
+        "cantidad": 1
+
+    },
+
+    {
+        "id":3,
+        "nombre":"Burguer 360",
+        "precio":1800,
+        "imagen": "../images/burguer360.jpeg",
+        "cantidad":1
+
+    },
+    {
+        "id":4,
+        "nombre":"Burguer Master",
+        "precio":1800,
+        "imagen": "../images/burguerMaster.jpeg",
+        "cantidad": 1
+
+    },
+    {
+        "id":5,
+        "nombre":"Burguer 4 Quesos",
+        "precio":2000,
+        "imagen": "../images/burguer4quesos.jpeg",
+        "cantidad": 1
+
+    },
+    {
+        "id":6,
+        "nombre":"Burguer Suprema",
+        "precio":2500,
+        "imagen": "../images/burguerSuprema.jpeg",
+        "cantidad": 1
+
+    }
+   
+]
+
