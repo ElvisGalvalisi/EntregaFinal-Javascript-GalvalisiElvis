@@ -333,6 +333,7 @@ const continuarPago = () => {
         icon: "error",
         confirmButtonColor: "#3085d6",
       });
+      pedidoListo = false;
     }
   });
 };
