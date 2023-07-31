@@ -329,7 +329,7 @@ const continuarPago = () => {
 
     } else if (result.isDenied) {
       Swal.fire({
-        title: "Peido Cancelado",
+        title: "Pedido Cancelado",
         icon: "error",
         confirmButtonColor: "#3085d6",
       });
